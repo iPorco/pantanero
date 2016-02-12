@@ -1,0 +1,68 @@
+
+
+@media (max-width:480px) {
+
+	.navbar-custom .nav.navbar-nav {
+    background-color: rgba(255,255,255,.4);
+	}
+	
+	.navbar.navbar-custom.navbar-fixed-top {
+		margin-bottom: 30px;
+	}
+	
+	.tp-banner-container {
+		padding-top:40px;
+	}
+
+	.page-scroll a.btn-circle {
+		width: 40px;
+		height: 40px;
+		margin-top: 10px;
+		padding: 7px 0;
+		border: 2px solid #fff;
+		border-radius: 50%;
+		font-size: 20px;
+	}
+	
+}
+
+
+header{    height: 200px;
+    border-bottom: 1px solid;}
+
+
+    .container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 160px;
+}
+
+
+
+.metaslider >img{
+  min-height: 850px !important;
+}
+.metaslider {
+ 
+    position: absolute !important;
+    top: -200px;important;
+    width: 100%;
+}
+
+.collapse.navbar-collapse.navbar-right.navbar-main-collapse {
+    margin-top: 47px;
+}
+
+}
+.nav {
+    border-radius: 74px;
+    height: 180px !important;
+    background-color: #b2bd81 !important
+}
+
+.top-nav-collapse {
+    background: #b2bd81;
+    height: 99px;
+}
+
+#galeria{    min-height: 700px;}
